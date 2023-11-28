@@ -1,9 +1,9 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.1",
+"Version":"1.2",
 //link for server update
-"Url":"https://github.com/Khansi77/netfree/raw/main/bbb.zip" ,
-"Changelog":"😁😁😁😁😁
+"Url":"https://github.com/Khansi77/netfree/raw/main/bbc.zip" ,
+"Changelog":"ကိုကြီးvedio သေချာကြည့်ပီးလုပ် လုပ်တတ်ရင်လွယ်ပါတယ် ဒါနဲ့ v2ray ဖိုင်လင့်ချသော့ခတ်နည်းလေးပြောပြပေးအုံးနော်😁😁🤠🤠🤠🤠🤠
 ",
 // don't mess with the bottom
 "latestVersion": "1.0.0",
